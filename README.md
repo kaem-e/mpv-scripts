@@ -2,7 +2,7 @@
   <img src="assets/mpv-icon.png" alt="alt text" width="128" height="128"/>
 </div>
 
-A Personal Collection of scripts for (mpv)[https://mpv.io/]
+A Personal Collection of scripts for [mpv](https://mpv.io/)
 
 
 ---
